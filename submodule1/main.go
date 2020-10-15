@@ -1,3 +1,3 @@
 package submodule1
 
-const V = "submodule1-v1"
+const V = "submodule1-v2"
