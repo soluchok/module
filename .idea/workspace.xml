@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="e048e151-a828-4b53-ae0b-de986788e75e" name="Default Changelist" comment="">
-      <change beforePath="$PROJECT_DIR$/submodule1/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/submodule1/main.go" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/submodule2/main.go" beforeDir="false" afterPath="$PROJECT_DIR$/submodule2/main.go" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/go.mod" beforeDir="false" afterPath="$PROJECT_DIR$/go.mod" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -49,6 +49,15 @@
       <directory value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <configuration name="go build github.com/soluchok/module" type="GoApplicationRunConfiguration" factoryName="Go Application" temporary="true" nameIsGenerated="true">
+      <module name="module" />
+      <working_directory value="$PROJECT_DIR$" />
+      <kind value="PACKAGE" />
+      <filePath value="$PROJECT_DIR$/main.go" />
+      <package value="github.com/soluchok/module" />
+      <directory value="$PROJECT_DIR$" />
+      <method v="2" />
+    </configuration>
     <configuration default="true" type="GoTestRunConfiguration" factoryName="Go Test">
       <module name="module" />
       <working_directory value="$PROJECT_DIR$" />
@@ -59,6 +68,11 @@
       <filePath value="$PROJECT_DIR$" />
       <method v="2" />
     </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Go Build.go build github.com/soluchok/module" />
+      </list>
+    </recent_temporary>
   </component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TypeScriptGeneratedFilesManager">
@@ -66,5 +80,23 @@
   </component>
   <component name="VgoProject">
     <integration-enabled>true</integration-enabled>
+  </component>
+  <component name="WindowStateProjectService">
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom" timestamp="1602779531021">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.bottom/0.23.1792.1017@0.23.1792.1017" timestamp="1602779531021" />
+    <state width="1750" height="277" key="GridCell.Tab.0.center" timestamp="1602779531020">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.center/0.23.1792.1017@0.23.1792.1017" timestamp="1602779531020" />
+    <state width="1750" height="277" key="GridCell.Tab.0.left" timestamp="1602779531020">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.left/0.23.1792.1017@0.23.1792.1017" timestamp="1602779531020" />
+    <state width="1750" height="277" key="GridCell.Tab.0.right" timestamp="1602779531020">
+      <screen x="0" y="23" width="1792" height="1017" />
+    </state>
+    <state width="1750" height="277" key="GridCell.Tab.0.right/0.23.1792.1017@0.23.1792.1017" timestamp="1602779531020" />
   </component>
 </project>
