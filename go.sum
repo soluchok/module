@@ -2,7 +2,11 @@ github.com/soluchok/module/submodule1 v0.1.0 h1:RlGn8zGsSRZ0oxa5ww/SgUbiEmnUeusU
 github.com/soluchok/module/submodule1 v0.1.0/go.mod h1:LEhvh+UacuQpvcDUrcaSBtAoFR7bucH24X0j5ORvLgA=
 github.com/soluchok/module/submodule1 v0.2.0 h1:Dw4HlrzHh9w60PdLjfTCNitmTnrysc9e4RK3QKsASo0=
 github.com/soluchok/module/submodule1 v0.2.0/go.mod h1:LEhvh+UacuQpvcDUrcaSBtAoFR7bucH24X0j5ORvLgA=
+github.com/soluchok/module/submodule1 v0.3.0 h1:KJcmEUVkA/YSpFKEyCBmh0Vd5UCTTN1a/J9z4nUb4ic=
+github.com/soluchok/module/submodule1 v0.3.0/go.mod h1:LEhvh+UacuQpvcDUrcaSBtAoFR7bucH24X0j5ORvLgA=
 github.com/soluchok/module/submodule2 v0.1.0 h1:w93ibgAqgOonv9RWeF210LQsF2JBXnVjx35a5sZvVJk=
 github.com/soluchok/module/submodule2 v0.1.0/go.mod h1:CvsByaoduwbe5L0j3ub8NWSp1s/Gyq9BTehKRMr8vjY=
 github.com/soluchok/module/submodule2 v0.2.0 h1:EyqeABNb1DJeNdyKBf7pg5VewXU4FoZftTiU5Dlo8MI=
 github.com/soluchok/module/submodule2 v0.2.0/go.mod h1:CvsByaoduwbe5L0j3ub8NWSp1s/Gyq9BTehKRMr8vjY=
+github.com/soluchok/module/submodule2 v0.3.0 h1:uSD96b/1tys/bezvLw/29HaP1+AZ5BusRhAKSg/nfYo=
+github.com/soluchok/module/submodule2 v0.3.0/go.mod h1:CvsByaoduwbe5L0j3ub8NWSp1s/Gyq9BTehKRMr8vjY=
